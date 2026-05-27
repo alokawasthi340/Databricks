@@ -1,0 +1,1 @@
+select * from delta.`/Volumes/databrickscatalog/bronze/job_vol/raw/stores/`
