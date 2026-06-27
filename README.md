@@ -1,2 +1,2 @@
 # Databricks
-this repository I created to learn  databricks and pyspark
+this repository I created to practice  pyspark Concepts.
